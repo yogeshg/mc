@@ -35,8 +35,8 @@ require (
 	github.com/shirou/gopsutil/v3 v3.22.9
 	github.com/tidwall/gjson v1.14.3
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
-	golang.org/x/net v0.0.0-20221017152216-f25eb7ecb193
-	golang.org/x/text v0.4.0
+	golang.org/x/net v0.7.0
+	golang.org/x/text v0.7.0
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b
 	gopkg.in/h2non/filetype.v1 v1.0.5
 	gopkg.in/yaml.v2 v2.4.0
@@ -52,7 +52,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/prometheus/client_model v0.3.0
 	github.com/rivo/tview v0.0.0-20211202162923-2a6de950f73b
-	golang.org/x/term v0.0.0-20221017184919-83659145692c
+	golang.org/x/term v0.5.0
 )
 
 require (
@@ -111,7 +111,7 @@ require (
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	google.golang.org/genproto v0.0.0-20221018160656-63c7b68cfc55 // indirect
 	google.golang.org/grpc v1.50.1 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
